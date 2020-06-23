@@ -28,7 +28,7 @@ Este projeto foi desenvolvido com o propósito de aprender e aumentar mais meus 
 -  [styled-components](https://www.styled-components.com/)
 -  [Typescript](https://www.typescriptlang.org/)
 
-## :information_source: Como usar a aplicação
+## :information_source: Como usar
 
 Para clonar e executar esta aplicação, você precisa do [Github](https://git-scm.com) e [Yarn](https://yarnpkg.com/) ou maior instalados. Comandos:
 
