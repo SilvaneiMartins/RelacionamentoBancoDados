@@ -13,7 +13,7 @@
 </p>
 
 <h4 align="left">
-  Demotração do layout desenvolvido.
+  Demotração da aplicação desenvolvida e todos os teste aprovado.
 </h4>
 
 <a href="https://imgur.com/YhoH8Se"><img src="https://i.imgur.com/YhoH8Se.png" title="source: imgur.com" /></a>
