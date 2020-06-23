@@ -47,7 +47,7 @@ $ yarn start
 ```
 
 ## :memo: License
-Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/bancomartins/blob/master/LICENSE) for more information.
+Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/relacionamentotabase/blob/master/LICENSE) for more information.
 
 ---
 
